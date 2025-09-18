@@ -8,11 +8,11 @@
 
 3. Tech Stack
    The dashboard was built using the following tools and technologies:
-   📊 Power BI Desktop – Primary visualization and reporting platform.
-   ⚙️ Power Query – Data transformation and cleaning for structured analysis.
-   📐 DAX (Data Analysis Expressions) – Custom measures for KPIs, revenue trends, and segmentation logic.
-   🔗 Data Modeling – Relationships established for customer, product, and transaction-level insights.
-   📑 Microsoft Excel – Source file containing raw customer and sales data.
+ -  📊 Power BI Desktop – Primary visualization and reporting platform.
+ -  ⚙️ Power Query – Data transformation and cleaning for structured analysis.
+ -  📐 DAX (Data Analysis Expressions) – Custom measures for KPIs, revenue trends, and segmentation logic.
+ -  🔗 Data Modeling – Relationships established for customer, product, and transaction-level insights.
+ -  📑 Microsoft Excel – Source file containing raw customer and sales data.
 
 4. Data Source
    The dataset originated from an Excel file, which was cleaned, transformed, and modeled in Power BI for advanced visualization and analysis.
