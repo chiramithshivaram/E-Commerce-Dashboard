@@ -26,4 +26,4 @@
    Visuals include bar charts, line charts, donut charts, and treemaps for deeper insights.
    Interactive filters for country and category drill-downs.
 
-   6. Screenshots[Dashboard Preview]{}
+6. Screenshots[Dashboard Preview]{}
