@@ -26,4 +26,4 @@
 - Visuals include bar charts, line charts, donut charts, and treemaps for deeper insights.
 - Interactive filters for country and category drill-downs.
 
-6. Screenshots[Dashboard Preview]{}
+6. Screenshots[Dashboard Preview]{[https://github.com/chiramithshivaram/E-Commerce-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(4).png](https://github.com/chiramithshivaram/E-Commerce-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(4).png)}
